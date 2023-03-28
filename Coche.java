@@ -1,3 +1,3 @@
 public class Coche {
-    public Object velocidad;
+    public int velocidad;
 }
